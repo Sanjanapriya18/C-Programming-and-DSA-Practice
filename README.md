@@ -41,6 +41,7 @@ I created this repository to improve my problem-solving skills and build a stron
 - Binary search
 - Recursive binary search
 - sentinel search
+- Jump Search
 
 ### 5. Sorting Algorithms
 - Bubble sort
