@@ -40,6 +40,7 @@ I created this repository to improve my problem-solving skills and build a stron
 - Linear search
 - Binary search
 - Recursive binary search
+- sentinel search
 
 ### 5. Sorting Algorithms
 - Bubble sort
